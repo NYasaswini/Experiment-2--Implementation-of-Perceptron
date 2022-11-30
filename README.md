@@ -134,6 +134,8 @@ Errorplot:
 Accuracy:
 
 ![output](./m5.png)
+
+
 ### Result:
 Thus a perceptron for classification is implemented using python.
 
